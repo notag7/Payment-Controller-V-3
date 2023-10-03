@@ -26,7 +26,7 @@ To clone use
 ```
 
 ```bash
-  pip install -r requirements.txt
+  pip install discord.py
 ```
 
 ```bash
