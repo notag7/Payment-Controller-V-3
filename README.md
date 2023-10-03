@@ -82,5 +82,5 @@ Please dont claim the bot as yours.
 
 ## Support
 
-For support, join -----> [here](https:://dsc.gg/femscripts) <----
+For support, join -----> [here](https://dsc.gg/femscripts) <----
 
