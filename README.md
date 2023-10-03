@@ -77,10 +77,10 @@ Please dont claim the bot as yours.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT]
 
 
 ## Support
 
-For support, join -----> dsc.gg/femscripts <----
+For support, join -----> [here](https:://dsc.gg/femscripts) <----
 
