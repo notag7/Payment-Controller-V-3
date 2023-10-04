@@ -91,7 +91,7 @@ async def pay(ctx, user: discord.User, amount: int):
 
         embed = discord.Embed(
             title='Payment Status',
-            description=f'Your previous order with Order ID {order_id} is {status}. You can place a new order even if you have a pending or banned payment.',
+            description=f'Your previous order with Order ID {order_id} is {status}. You cant place a new order even if you have a pending or banned payment / account.',
             color=0x00ff00
         )
         await ctx.send(embed=embed)
