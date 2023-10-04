@@ -27,6 +27,7 @@ To clone use
 
 ```bash
   pip install discord.py
+  pip install colorama
 ```
 
 ```bash
